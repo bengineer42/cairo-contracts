@@ -9,10 +9,17 @@ documentation = "https://docs.openzeppelin.com/contracts-cairo"
 readme = "README.md"
 repository = "https://github.com/OpenZeppelin/cairo-contracts"
 license-file = "LICENSE"
-keywords = ["openzeppelin", "starknet", "cairo", "contracts", "security", "standards"]
+keywords = [
+    "openzeppelin",
+    "starknet",
+    "cairo",
+    "contracts",
+    "security",
+    "standards",
+]
 
 [dependencies]
-starknet = "2.6.3"
+starknet = "2.6.4"
 
 [lib]
 
