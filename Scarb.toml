@@ -19,7 +19,7 @@ keywords = [
 ]
 
 [dependencies]
-starknet = "2.6.4"
+starknet = "2.5.4"
 
 [lib]
 
